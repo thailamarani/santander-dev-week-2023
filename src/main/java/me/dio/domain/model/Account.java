@@ -1,4 +1,4 @@
-package me.dio.domain.model;
+package main.java.me.dio.domain.model;
 
 import jakarta.persistence.*;
 
